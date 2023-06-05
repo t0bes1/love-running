@@ -46,10 +46,16 @@ h1 {
     color: inherit;
 }
 
-menu a:hover {
+#menu a:hover {
     border-bottom: 1px solid #3a3a3a;
 }
 
 .active {
     border-bottom: 1px solid #3a3a3a;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/hero-image.webp') no repeat center center;
 }
