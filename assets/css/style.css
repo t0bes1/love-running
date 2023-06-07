@@ -312,5 +312,9 @@ footer {
         padding: 20px;
     }
 
+    #photos {
+        column-count: 3;
+    }
+
 
 }
